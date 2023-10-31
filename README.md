@@ -1,3 +1,2 @@
-C++ Projects
-- Object Oriented Programming
-- Data Structures
+DISCLAIMER:
+Only the code written under "// TODO" comments is written by me. Everything else was implemented by my instructor.
